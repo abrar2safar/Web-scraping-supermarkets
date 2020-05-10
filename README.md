@@ -1,4 +1,4 @@
-# web scraping supermarkets 
+# Web scraping supermarkets 
   By : Abrar Safar
   
 ## Intro 
@@ -31,8 +31,8 @@ scraped data  using beautiful soup and selenium and another tool
 
 ## Conclusions and Recommendations :
 
-* data from internet is absolutely useful for CPI 
-* some supermarkets don't offer purchasing thier products its only for offers and seasons 
-* prices might be affected by ramadan season 
+* Data from internet are absolutely applicable for CPI 
+* Some supermarkets don't offer purchasing thier products its only for offers and seasons 
+* Prices might be affected by ramadan season 
 
 
