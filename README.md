@@ -2,6 +2,7 @@
   By : Abrar Safar
   
   
+  
 ## Intro 
 
 scraped data from multiple websites, scraped it each as seperate category as its in basket .. 
@@ -10,7 +11,7 @@ scraped data from multiple websites, scraped it each as seperate category as its
 
 ## Problem Statment : 
 
-finding out weather scraped data is a reasonable suorce for CPI
+finding out whether or not scraped data is a reasonable suorce for CPI
 
 
 
